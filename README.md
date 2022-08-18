@@ -23,6 +23,7 @@
 - Grab the latest package [from releases](https://github.com/orels1/UTCameraSystem/releases)
 - Import it into the project
 - Open your `Project Settings` -> `UdonSharp` and in the `Default Behaviour Editor` select `UdonToolkit Editor`
+- Follow further instructions [here](Follow further instructions here: https://ut.orels.sh/systems/camera-system)
 
 ### [Check out the wiki for all the information](https://ut.orels.sh/v/v1.x/)
 
